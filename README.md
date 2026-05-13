@@ -59,7 +59,7 @@ A custom joined dataset (`table_joined`) containing daily-level records with:
 
 > Replace these with actual PNG screenshots once you've taken them in Power BI Desktop.
 
-![KPI page](screenshots/kpi-page.png)
+![image alt](https://github.com/bigruntown/Miami-Shops/blob/main/Screenshot.jpg?raw=true)
 ![Detail page](screenshots/detail-page.png)
 
 ## How to view this project
